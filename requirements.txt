@@ -1,1 +1,5 @@
+crear-proyecto-django
 django==4.2.6
+
+django==4.2.6
+main
